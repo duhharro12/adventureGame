@@ -1,0 +1,16 @@
+Objective
+1.)We will need to Introduce the scenario of the game
+2.)We will need to allow the player to have multiple choices
+3.)We will need to have the choices affect the player depending on what option he/she has choosen
+4.)We will need to have the player have the choose what will want to change the scenario
+5.)We will need to have the player continue the same process until the player wants to end the game.
+6.)We will need to have a good, bad and ok ending
+
+Pseudecode
+print statement that explains the scenario of the game
+print statement that gives the player options to make 
+write a print statement that explains how each choices will affect the player
+write a print statement that gives the players options to move to a new scenario
+write a print statement that will continually have the adventurer repeat the same process
+write a print statement that will grant the player a ending
+
